@@ -1,0 +1,6 @@
+{
+  "name": "SSA Vasavi Enterprises",
+  "description": "Professional ERP for Inventory, Barcode, Stock, Manufacturing, Sales, Purchases, Production and Dispatch",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
